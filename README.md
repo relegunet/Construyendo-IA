@@ -61,6 +61,23 @@ Profesor Oscar Luis, de: https://www.youtube.com/c/ProfesorOscarLuis
 
 Millán, D. B., Boticario, J. G., & Viñuela, P. I. (2006). Aprendizaje automático. Sanz y Torres. De: Aprendizaje Automático (researchgate.net) de:  https://www.researchgate.net/profile/Daniel-Borrajo/publication/228866925_Aprendizaje_automatico/links/00b49530df74b47873000000/Aprendizaje-automatico.pdf
 
-Mirjalili, V., & Raschka, S. (2020). Python machine learning. Marcombo. De: Python Machine Learning - Vahid Mirjalili, Sebastian Raschka - Google Libros  de:https://books.google.com.co/books?hl=es&lr=&id=5EtOEAAAQBAJ&oi=fnd&pg=PT5&dq=aprendizaje+automatico+de+python&ots=eqK_UBWJJ9&sig=T8yhEhd2oOzSJUOkdglbPvO9zjQ#v=onepage&q=aprendizaje%20automatico%20de%20python&f=false
+Mirjalili, V., & Raschka, S. (2020). Python machine learning. Marcombo. De: Python Machine Learning - Vahid Mirjalili, Sebastian Raschka - Google Libros  de:https://books.google.com.co/books?hl=es&lr=&id=5EtOEAAAQBAJ&oi=fnd&pg=PT5&dq=aprendizaje+automatico+de+python&ots=eqK_UBWJJ9&sig=T8yhEhd2oOzSJUOkdglbPvO9zjQ#v=onepage&q=aprendizaje%20automatico%20de%20python&f=false#
+
+
+#Nota:
+Pront agregarare la primera evidencia , de este mi primer proyecto IA. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
