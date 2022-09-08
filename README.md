@@ -40,7 +40,7 @@ Aunque solo se está planteando una idea,  podría decir que los métodos de rec
 
 ¿Cómo podría su proyecto crecer y convertirse en algo aún más? 
 
-Mejorar la automatización  en procesos de recomendaciones puede aplicar a distintos campos o sectores de la producción o prestación de servicios, considero que este planteamiento del proyecto en etapa de idea “pedido mágico”, puede ser escalado y configurado según las características de proyectos nuevos o diferentes.  
+Mejorar la automatización en procesos de recomendaciones puede aplicar a distintos campos o sectores de la producción o prestación de servicios, considero que este planteamiento del proyecto en etapa de idea “pedido mágico”, puede ser escalado y configurado según las características de proyectos nuevos o diferentes.   
 Aunque solo se esta planteando una idea.
 
 ## Acknowledgments
