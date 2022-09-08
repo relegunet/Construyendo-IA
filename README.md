@@ -45,21 +45,22 @@ Aunque solo se esta planteando una idea.
 
 ## Acknowledgments
 
-Analisis de datos, Aprender IA, Aprender Machine Learning y otros, de: Tutoriales web en línea de W3Schools 
+Analisis de datos, Aprender IA, Aprender Machine Learning y otros, de: https://www.w3schools.com/ai/default.asp
 
-Machine Learning Crash Course de Google, de: Machine Learning  |  Google Developers 
+Machine Learning Crash Course de Google, de:  https://developers.google.com/machine-learning/crash-course/
 
-MinnaLearn y la Universidad de Helsinki,  de: Una introducción a la inteligencia artificial, en línea y gratis, para no expertos (elementsofai.com) 
+MinnaLearn y la Universidad de Helsinki,  de: Una introducción a la inteligencia artificial, en línea y gratis, para no expertos (elementsofai.com):  https://www.elementsofai.com/es?_ga=2.36921760.1041591455.1662430242-1529170940.1649731208
 
-Píldoras matemáticas, de: (86) Píldoras matemáticas - YouTube 
+Píldoras matemáticas, de: https://www.youtube.com/channel/UCit9MctiWdrR2bCqyuDP5fQ
 
-Matematicas Profe alex: de: (86) Matemáticas profe Alex - YouTube 
+Matematicas Profe alex: de:  https://www.youtube.com/c/MatematicasprofeAlex
 
-Profesor Oscar Luis, de: (86) Profesor Oscar Luis - YouTube 
+Profesor Oscar Luis, de: https://www.youtube.com/c/ProfesorOscarLuis
 
-¡Aprende sobre el campo del Machine Learning descubriendo sus curiosidades!, de: (86) Dot CSV - YouTube 
+¡Aprende sobre el campo del Machine Learning descubriendo sus curiosidades!, de:  https://www.youtube.com/c/DotCSV
 
-Millán, D. B., Boticario, J. G., & Viñuela, P. I. (2006). Aprendizaje automático. Sanz y Torres. De: Aprendizaje Automático (researchgate.net) 
+Millán, D. B., Boticario, J. G., & Viñuela, P. I. (2006). Aprendizaje automático. Sanz y Torres. De: Aprendizaje Automático (researchgate.net) de:  https://www.researchgate.net/profile/Daniel-Borrajo/publication/228866925_Aprendizaje_automatico/links/00b49530df74b47873000000/Aprendizaje-automatico.pdf
 
-Mirjalili, V., & Raschka, S. (2020). Python machine learning. Marcombo. De: Python Machine Learning - Vahid Mirjalili, Sebastian Raschka - Google Libros 
+Mirjalili, V., & Raschka, S. (2020). Python machine learning. Marcombo. De: Python Machine Learning - Vahid Mirjalili, Sebastian Raschka - Google Libros  de:https://books.google.com.co/books?hl=es&lr=&id=5EtOEAAAQBAJ&oi=fnd&pg=PT5&dq=aprendizaje+automatico+de+python&ots=eqK_UBWJJ9&sig=T8yhEhd2oOzSJUOkdglbPvO9zjQ#v=onepage&q=aprendizaje%20automatico%20de%20python&f=false
+
 
