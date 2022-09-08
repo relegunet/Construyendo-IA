@@ -63,7 +63,7 @@ Millán, D. B., Boticario, J. G., & Viñuela, P. I. (2006). Aprendizaje autom�
 
 Mirjalili, V., & Raschka, S. (2020). Python machine learning. Marcombo. De: Python Machine Learning - Vahid Mirjalili, Sebastian Raschka - Google Libros  de:https://books.google.com.co/books?hl=es&lr=&id=5EtOEAAAQBAJ&oi=fnd&pg=PT5&dq=aprendizaje+automatico+de+python&ots=eqK_UBWJJ9&sig=T8yhEhd2oOzSJUOkdglbPvO9zjQ#v=onepage&q=aprendizaje%20automatico%20de%20python&f=false#
 
-#Nota
+## nota
 Pronto agregare mi primera evidencia, de este mi primer proyecto IA.
 
 
